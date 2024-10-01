@@ -10,5 +10,3 @@ To switch to the `master` branch, use the following command:
 
 ```bash
 git checkout master
-
-
